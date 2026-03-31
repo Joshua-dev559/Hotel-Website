@@ -42,8 +42,7 @@ Open `index.html` in your browser.
 
 You can edit:
 
-- Hotel name in HTML files  
-- Images in the `images/` folder  
+- Hotel name in HTML files    
 - Styles in `css/styles.css`   
 
 ---
